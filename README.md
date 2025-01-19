@@ -1,2 +1,2 @@
-# htmlprogrammer.github.io
-htmlprogrammer
+# multiple_disease_prediction
+Multiple Disease Prediction System
